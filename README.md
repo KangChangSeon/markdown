@@ -95,6 +95,7 @@ public class Main{
 * [icons8](https://icons8.com)  
 * [SVGrepo](https://svgrepo.com)  
 * [Unsplash](https://unsplash.com/ko)
+* [emojipedia](https://emojipedia.com)
 
 ![뭔가 이미지](architect-9280053_640.jpg)  
 `![뭔가 이미지](architect-9280053_640.jpg)`
