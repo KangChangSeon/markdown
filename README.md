@@ -91,10 +91,10 @@ public class Main{
 링크 연결하는 법
 [링크]("https://naver.com")  
 `[링크]("https://naver.com")`  
-[pixabay]("https://pixabay.com")  
-[icons8]("https://icons8.com")  
-[SVGrepo]("https://svgrepo.com")  
-[Unsplash]("https://unsplash.com/ko")
+* [pixabay]("https://pixabay.com")  
+* [icons8]("https://icons8.com")  
+* [SVGrepo]("https://svgrepo.com")  
+* [Unsplash]("https://unsplash.com/ko")
 
 ![뭔가 이미지](architect-9280053_640.jpg)
 `![뭔가 이미지](architect-9280053_640.jpg)`
